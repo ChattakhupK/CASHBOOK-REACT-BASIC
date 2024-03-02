@@ -1,0 +1,51 @@
+.NewContainer{
+  background: #61dafb;
+  box-shadow: #096dd9;
+  border-radius: 5px;
+  border: #282c34 3px solid;
+  width: 80%;
+  margin: auto;
+}
+
+.StatusInput {
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.StatusInput > label {
+  min-width: 25%;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.StatusInput > input {
+  width: 80%;
+  padding: 5px 5px;
+  line-height: 1.4;
+  background-color: #f9f9f9;
+  border: 1px solid #e5e5e5;
+  border-radius: 3px;
+}
+
+.StatusInput > select {
+  width: 80%;
+  padding: 5px 5px;
+  line-height: 1.4;
+  background-color: #f9f9f9;
+  border: 1px solid #e5e5e5;
+  color: #000;
+  border-radius: 3px;
+  margin: 0 15px;
+}
+
+.btn{
+  margin: 10px 10px;
+  width: 100px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+  padding: 5px 0;
+  background: black
+}

@@ -1,0 +1,21 @@
+.label-header {
+    text-align: start;
+    font-family: system-ui, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.1;
+    margin-right: 10px;
+}
+
+.container-header {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.select-header {
+    border: #000000 3px solid;
+    font-size: 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+}
